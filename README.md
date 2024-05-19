@@ -11,7 +11,7 @@ IDE Visual Studio code
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/alexliak/social-media-influence.git
    cd code-influence
 2.  python -m venv venv 
     .\venv\Scripts\activate
