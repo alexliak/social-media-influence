@@ -28,7 +28,11 @@ IDE Visual Studio code
     pip install -r requirements.txt
 
 ### Usage
-1. python src/main.py
+1. Run the main script:
+    ```sh
+    python src/main.py
 
 ### Testing
-1. pytest src/tests/
+1. Run tests:
+    ```sh
+    pytest src/tests/
