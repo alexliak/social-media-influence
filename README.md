@@ -19,6 +19,7 @@ IDE Visual Studio code
 
 ### Usage
 python src/main.py
-//change the rate of networks to see how it is escalating
+
+Change the rate of networks to see how it is escalating
 ### Testing
 pytest src/tests/
