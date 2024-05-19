@@ -13,9 +13,13 @@ IDE Visual Studio code
 1. Clone the repository:
    ```sh
    git clone https://github.com/alexliak/social-media-influence.git
+   ```sh
 2. cd code-influence
-3. python -m venv venv 
+    ```sh
+3. python -m venv venv
+    ```sh
 4. .\venv\Scripts\activate
+    ```sh
 5. pip install -r requirements.txt
 
 ### Usage
