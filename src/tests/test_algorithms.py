@@ -1,7 +1,7 @@
 import unittest
 import numpy as np
-from data.member import Member
 from data.network import Network
+from data.member import Member
 from algorithms.path_finding import dijkstra, find_highest_engagement_path
 from algorithms.influence import calculate_influence
 from sklearn.linear_model import LinearRegression
