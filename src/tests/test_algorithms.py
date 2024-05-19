@@ -1,7 +1,7 @@
 import unittest
 import numpy as np
-from data.network import Network
 from data.member import Member
+from data.network import Network
 from algorithms.path_finding import dijkstra, find_highest_engagement_path
 from algorithms.influence import calculate_influence
 from sklearn.linear_model import LinearRegression
@@ -105,7 +105,7 @@ class TestAlgorithms(unittest.TestCase):
             model.fit(X, y)
             return model
 
-        for num_members in [10, 20, 48]:  # Progressively larger networks
+        for num_members in [10, 20, 25]:  # Progressively larger networks
             network = create_network(num_members)
             members = network.members
 

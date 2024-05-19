@@ -16,7 +16,7 @@ IDE Visual Studio code
    
 2. Navigate to the project directory:
     ```sh
-    cd code-influence
+    cd src
 3. Create a virtual environment:
     ```sh
     python -m venv venv
