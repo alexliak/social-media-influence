@@ -16,7 +16,7 @@ IDE Visual Studio code
    
 2. Navigate to the project directory:
     ```sh
-    cd src
+    cd social-media-influence-main
 3. Create a virtual environment:
     ```sh
     python -m venv venv
@@ -32,7 +32,9 @@ IDE Visual Studio code
     ```sh
     python src/main.py
 
-### Testing
+### Testing and analytics
 1. Run tests:
     ```sh
     pytest src/tests/
+    ```sh
+    pytest -s src/tests/

@@ -105,7 +105,7 @@ class TestAlgorithms(unittest.TestCase):
             model.fit(X, y)
             return model
 
-        for num_members in [10, 20, 25]:  # Progressively larger networks
+        for num_members in [10, 20, 45]:  # Progressively larger networks
             network = create_network(num_members)
             members = network.members
 
