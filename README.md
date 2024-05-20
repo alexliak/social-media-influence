@@ -38,3 +38,12 @@ IDE Visual Studio code
     pytest src/tests/
     ```sh
     pytest -s src/tests/
+
+### Related Project
+
+You can find a similar version of this project in another GitHub account here: alexliak/social-media-influence
+Adjusting the Number of Users
+
+### Adjusting the Number of Users
+
+To change the number of users for testing, you can modify the range in line 267 of main.py. This allows you to customize the size of the social network for different test scenarios.
