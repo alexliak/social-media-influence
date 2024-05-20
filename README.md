@@ -41,8 +41,9 @@ IDE Visual Studio code
 
 ### Related Project
 
-You can find a similar version of this project in another GitHub account here: alexliak/social-media-influence
-Adjusting the Number of Users
+You can find a similar version of this project in another GitHub account here:
+
+https://github.com/liakopal/social-network-influence.git
 
 ### Adjusting the Number of Users
 
